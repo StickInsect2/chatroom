@@ -1,21 +1,21 @@
-# chatfront
+功能实现情况：
+ - [ ] 1，搜索功能
+ - [X] 2，换肤功能（9/3）
+ - [ ] 3，查找功能    
+      - 搜索功能
+      - [X] 创建分组(9/5)
+      - [X] 我的分组
+      - 加入分组 
+    
+ - [X] 4，关于（9/3）
+ - [ ] 5，聊天列表（没有及时更新）
+ - [ ] 6，群组成员显示
+ - [ ] 7，聊天对象
+ - [ ] 8，聊天界面
 
-> A Vue.js project
+      - 表情插件
+      - 发送图片
+      - 发送消息
+      - 发送文件
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+ - [ ] 9，界面实现最小化
